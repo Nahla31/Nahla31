@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img align="center" src="assets/images/Hi.gif" width="40">, I'm Nahla Gamal</h1>
+<h1 align="center">Hi<img align="center" src="assets/images/Hi.gif" width="40">, I'm Nahla Gamal</h1>
 <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F74700&width=435&lines=A+Front-End+Developer;" alt="Typing SVG" /></a>
 <br>
 ## ⚡ Here's Some Fun Facts About Me:
