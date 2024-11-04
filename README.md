@@ -10,7 +10,7 @@
 
 - 😄 Passionate about learning & development to reach the target.
 
-- 🌱 [**UpWork Profile**] "https://www.upwork.com/freelancers/~01918e72162a6ed4af"
+- 🌱 [**UpWork Profile**](https://www.upwork.com/freelancers/~01918e72162a6ed4af)
 
 - 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1BjGY9anCVFUDSipELWdA6CoXEBk3qwXn/view?usp=drive_link)
 
